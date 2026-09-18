@@ -1,0 +1,10 @@
+# 여행 하루 코스 앱 - 필수 라이브러리
+
+# 웹앱 프레임워크
+streamlit>=1.40.0
+
+# Claude AI API 클라이언트
+anthropic>=0.28.0
+
+# 환경 변수 관리 (.env 파일 로드)
+python-dotenv>=1.0.0
